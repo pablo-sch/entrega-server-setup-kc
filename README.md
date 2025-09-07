@@ -13,8 +13,8 @@
 
 ## Ejercicios Implementados
 
-- **Ejercicio 1:** NodePop desplegado con Node.js + PM2 + Nginx
-- **Ejercicio 2:** React accesible vía IP del servidor
+- **Ejercicio 1:** NodePop desplegado con Node.js + Supervisor + Nginx
+- **Ejercicio 2:** React accesible vía IP del servidor (también con Supervisor)
 
 ## Información del Servidor
 
